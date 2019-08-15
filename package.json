@@ -1,0 +1,23 @@
+{
+  "name": "personal-site",
+  "version": "1.0.0",
+  "description": "Frontend of my personal site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Manokero/personal-site.git"
+  },
+  "keywords": [
+    "site",
+    "professional"
+  ],
+  "author": "Wildin Mota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manokero/personal-site/issues"
+  },
+  "homepage": "https://github.com/Manokero/personal-site#readme"
+}
